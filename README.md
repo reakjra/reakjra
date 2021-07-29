@@ -16,3 +16,5 @@
 
 - 👹 My [Server Discord](https://discord.gg/YnSeMT4VAj)
   
+- 🥞 My Discord Profile: [Kayeda#9473](https://discord.com/users/314755997891559435)
+  
