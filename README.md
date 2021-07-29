@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Kayeda
+### <div align="center">Hi! I am Kayeda!
 
-- 👩🏻‍🎨 I’m currently coding in Javascript and Typescript.  
+- 👩🏻‍🎨 I’m currently coding in Typescript and Javascript.  
   
 
 - ❓  I am in love with coding Discord Bots.
 
 
-- 👾 Discord bot: [Akimi](https://top.gg/bot/869537614796034128)
+- 👾 My Discord Bot: [Akimi](https://top.gg/bot/869537614796034128)
 
 
-- 👹 [Server Discord](https://discord.gg/YnSeMT4VAj)
+- 👹 My [Server Discord](https://discord.gg/YnSeMT4VAj)
   
