@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi! I am Kayeda!
+### <div align="center">Hi! I am Rytsaa!
 
 - 👩🏻‍🎨 I’m currently coding in Typescript and Javascript.  
   
@@ -16,5 +16,5 @@
 
 - 👹 My [Server Discord](https://discord.gg/YnSeMT4VAj)
   
-- 🥞 My Discord Profile: [Kayeda#9473](https://discord.com/users/314755997891559435)
+- 🥞 My Discord Profile: [Rytsaa#9473](https://discord.com/users/314755997891559435)
   
