@@ -1,4 +1,4 @@
-### <div align="center">Hey User-kun You Want to Support me Right?
+### <div align="center">Hey user-kun You Want to Support me Right?
 
 <div align="center">
   
