@@ -4,23 +4,16 @@
   
 <div align="center">
   
+        
+  </div> 
+    I'm Learning:
   
-  
-    
-  </div>
-  
-  
-  
-  
-  
-  I'm Learning: 
-  
-  - C
-  - C++
-  - Rust
-  - Assembly
-  - Java
-  - TypeScript
+ - C
+ - C++
+ - Rust
+ - Assembly
+ - Java
+ - TypeScript
   
   
   </div>
