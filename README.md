@@ -26,7 +26,8 @@
   </div>
 
  
- [![Kayeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayedaa&show_icons=true&theme=radical)](https://github.com/kayedaa/github-readme-stats)
+ [![Kayeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayedaa&show_icons=true&theme=radical)](https://github.com/kayedaa/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayedaa&layout=compact)](https://github.com/kayedaa/github-readme-stats)
+
   
   
   If you want support me :P
