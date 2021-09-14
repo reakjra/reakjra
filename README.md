@@ -8,12 +8,8 @@
   </div> 
     I'm Learning:
   
- - C
- - C++
- - Rust
- - Assembly
- - Java
- - TypeScript
+  
+  <br/>C - C++ - Rust - Assembly - Java - TypeScript - PHP - Go 
   
   
   </div>
