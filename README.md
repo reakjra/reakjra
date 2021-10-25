@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-   [![Kayeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayedaa&show_icons=true&theme=radical)](https://github.com/kayedaa/github-readme-stats) 
+   [![iKaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKaja&show_icons=true&theme=radical)](https://github.com/iKaja/github-readme-stats) 
   
 </details>
 
