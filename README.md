@@ -3,10 +3,7 @@
 
 </p>
 
- #### <div align="center"> I Made a NPM Package for Discord.js
-  
-
-  <div align="center"> <a href="https://www.npmjs.com/package/klaymon"><img src="https://nodei.co/npm/klaymon.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a> 
+ </a> 
 </div>
 </div>
 <br />
