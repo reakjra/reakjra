@@ -34,7 +34,7 @@
 
   ### 🧁 Socials & Other 
   
-  - Discord: Sayukee#5643
+  - Discord: [Sayukee#5643](https://discord.com/users/885982488281878658)
   - Steam: [Sayukee](https://steamcommunity.com/profiles/76561198797604835/)
   
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=885982488281878658)
