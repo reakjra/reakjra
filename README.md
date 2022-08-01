@@ -1,4 +1,6 @@
-# Sayukee <img height="30" src="./assets/menhera-chan-annoyed.gif">
+# Sayukee 
+ 
+ - Web and Back-end Developer
  
 </p>
 
