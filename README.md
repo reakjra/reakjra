@@ -1,6 +1,6 @@
 # Sayukee 
  
- - Web and Back-end Developer
+ - Web and Back-end Developer, Medium-High TypeScript knowledge
  
 </p>
 
