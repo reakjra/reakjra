@@ -1,4 +1,4 @@
-# Sayukee 
+# mwttjq
  
  - Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge
  
@@ -30,9 +30,9 @@
 
 ## 🧁 Socials & Others
   
-  - Discord: [Sayukee#5643](https://discord.com/users/885982488281878658)
+  - Discord: [mwttjq#5643](https://discord.com/users/885982488281878658)
   - Steam: [Sayukee](https://steamcommunity.com/profiles/76561198797604835/)
-  - Telegram: [@Sayukeeee](https://t.me/Sayukeeee)
+  - Telegram: [@mwttjq](https://t.me/mwttjq)
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/885982488281878658)](https://discord.com/users/885982488281878658)
   
