@@ -44,7 +44,7 @@
 
 ## 🎆 GitHub Stats
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sayukee&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayukee&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mwttjq&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwttjq&theme=tokyonight&hide=batchfile">
 
 
   
