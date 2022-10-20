@@ -1,51 +1,54 @@
-# mwttjq
+<div align="center">
+<img src="banner.png" alt="Profile Picture"  />
+</div>
+
+<h3 align="center"><i> mwttjq </i> </h3>
+<p align="center"><i> Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge </i> </p>
  
- - Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge
  
----
+ <p align="center"><i><a href="https://discord.com/users/885982488281878658">Discord</a> ⋄ <a href="https://t.me/mwttjq">Telegram</a></i></p>
+   
+<hr>
 
 
 
-
-## 🌺 Languages & Tools: 
-
-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /><img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/rust/rust.png" /><img align="left" alt="Java" width="26px" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" /><img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" /><img align="left" alt="bash" width="26px" src="https://img.icons8.com/fluency/2x/console.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-</br>
-</br>
+<div align="center">
+<code><img height="20" src="https://img.shields.io/badge/-c++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></code> 
+<code><img height="20" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/></code> 
+<code><img height="20" src="https://img.shields.io/badge/-TypeScript-%23323330?style=flat-square&logo=Typescript&logoColor=blue"/></code> 
+<code><img height="20" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=Javascript&logoColor=%23F7DF1E"/></code> 
 
 
-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/2x/mongodb.png" /><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/2x/git.png" /><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" /><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
+<code><img height="20" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=CSS&logoColor=white" /></code>
+<code><img height="20" src="https://img.shields.io/badge/-React-%2300599C?style=flat-square&logo=react&logoColor=white"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-Electron-003545?style=flat-square&logo=electron&logoColor=white"/></code> 
 
-</br>
-</br>
 
-- <img align="left" alt="Windows 10" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/windows_icon-icons.com_62712.png" />
+<code><img height="20" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code> 
+<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
 
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<code><img height="20" src="https://img.shields.io/badge/-Visual Studio Code-003545?style=flat-square&logo=visualstudiocode&logoColor=0078d7"/></code> 
+<code><img height="20" src="https://img.shields.io/badge/-Neovim-164914?style=flat-square&logo=neovim&logoColor=278423"/></code> 
+
+<code><img height="20" src="https://img.shields.io/badge/-Windows-1c78c9?style=flat-square&logo=windows&logoColor=white"/></code> 
+<code><img height="20" src="https://img.shields.io/badge/-Kali Linux-141719?style=flat-square&logo=kalilinux&logoColor=white"/></code> 
+
+</div>
+<hr>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=mwttjq&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwttjq&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
-  </br>
-  </br>
- 
-
-## 🧁 Socials & Others
+   </div>
   
-  - Discord: [mwttjq#5643](https://discord.com/users/885982488281878658)
-  - Steam: [mwttjq](https://steamcommunity.com/profiles/76561198797604835/)
-  - Telegram: [@mwttjq](https://t.me/mwttjq)
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/885982488281878658)](https://discord.com/users/885982488281878658)
+  </p>
   
-
-
-</br>
-
-
-
-## 🎆 GitHub Stats
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mwttjq&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwttjq&theme=tokyonight&hide=batchfile">
-
 
   
 
