@@ -2,7 +2,7 @@
 <img src="banner.png" alt="Profile Picture"  />
 </div>
 
-<h3 align="center"><i> mwttjq </i> </h3>
+<h3 align="center"><i> pharmacista </i> </h3>
 <p align="center"><i> Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge </i> </p>
  
  
@@ -40,8 +40,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mwttjq&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwttjq&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pharmacista&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pharmacista&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
    </div>
   
