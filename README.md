@@ -2,7 +2,7 @@
 <img src="banner.png" alt="Profile Picture"  />
 </div>
 
-<h3 align="center"><i> pharmacista </i> </h3>
+<h3 align="center"><i> kiwora </i> </h3>
 <p align="center"><i> Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge </i> </p>
  
  
