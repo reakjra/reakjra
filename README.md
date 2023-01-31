@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.png" alt="Profile Picture"  />
+
 </div>
 
 <h3 align="center"><i> kiwora </i> </h3>
