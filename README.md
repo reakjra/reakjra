@@ -6,7 +6,7 @@
 <p align="center"><i> Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge </i> </p>
  
  
- <p align="center"><i><a href="https://discord.com/users/885982488281878658">Discord</a> ⋄ <a href="https://t.me/mwttjq">Telegram</a></i></p>
+ <p align="center"><i><a href="https://discord.com/users/885982488281878658">Discord</a> ⋄ <a href="https://t.me/wqpoy">Telegram</a></i></p>
    
 <hr>
 
