@@ -2,7 +2,7 @@
 
 </div>
 
-<h3 align="center"><i> kiwora </i> </h3>
+<h3 align="center"><i> yuuskitten </i> </h3>
 <p align="center"><i> Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge </i> </p>
  
  
@@ -40,8 +40,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kiwora&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwora&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yuuskitten&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuskitten&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
    </div>
   
