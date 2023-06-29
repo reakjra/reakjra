@@ -2,8 +2,15 @@
 
 </div>
 
-<h3 align="center"><i> mwttjq </i> </h3>
-<p align="center"><i> Web and Back-end Developer, Medium-High TypeScript & JavaScript knowledge </i> </p>
+<h3 align="center"><i> 2crayfish </i> </h3>
+<p align="center"><i>
+ 
+    Learning:                         Medium knowledge:
+    
+    Java. [+ Swift, JavaFX]           JavaScript. => [Electron, React.js, etc.]
+    Python.                           TypeScript.
+    C++.                              HTML/CSS. [+ scss, Tailwind]
+ </i> </p>
  
  
  <p align="center"><i><a href="https://discord.com/users/885982488281878658">Discord</a> ⋄ <a href="https://t.me/wqpoy">Telegram</a></i></p>
@@ -40,8 +47,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mwttjq&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwttjq&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=2crayfish&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2crayfish&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
    </div>
   
