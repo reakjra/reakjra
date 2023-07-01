@@ -45,10 +45,21 @@
 </br>
 
 ```ruby
-Learning:                       Medium-knowledge:                       High-knowledge:                    
-Java {Swing, JavaFX},           HTML/CSS {Tailwind, scss},              Javascript {Electron, React.js, Express}
+Learning:                      Medium-knowledge:                       High-knowledge:
+            
+Java {Swing, JavaFX},           HTML/CSS {Tailwind, scss},             Javascript {Electron, React.js, Express}
 Python,                         Typescript,
 C++                             Rust
+
+OS:
+Kali Linux, Windows, Ubuntu;
+
+Text Editor/IDE:
+VSC, VS, Intellij, Neovim, Eclipse;
+
+Hosting & Database:
+Heroku, DigitalOcean, Linode, AWS, MySQL, MongoDB;
+
 ```` 
 
 
