@@ -47,9 +47,10 @@
 ```ruby
 Learning:                      Medium-knowledge:                       High-knowledge:
             
-Java {Swing, JavaFX},           HTML/CSS {Tailwind, scss},             Javascript {Electron, React.js, Express}
-Python,                         Typescript,
-C++                             Rust
+Java {Swing, JavaFX},          HTML/CSS {Tailwind, scss},              Javascript {Electron, React.js, Express}
+Python,                        Typescript,
+C++                            Rust
+
 
 OS:
 Kali Linux, Windows, Ubuntu;
