@@ -2,7 +2,15 @@
 
 </div>
 
-<h3 align="center"><i> 2crayfish </i> </h3>
+<h3 align="center"> 
+<i> 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=8000&pause=1000&color=FF3611&center=true&vCenter=true&width=435&lines=2crayfish)](https://git.io/typing-svg)
+ 
+ </i> 
+  </h3>
+
+
 <p align="center"><i>
  
     Learning:                         Medium knowledge:
@@ -47,8 +55,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=2crayfish&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2crayfish&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
   
    </div>
   
