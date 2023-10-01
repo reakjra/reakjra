@@ -29,7 +29,7 @@
 - 🏷 Sex: _male_
 - 🗣️ Languages: _italian, english_
 - 🐈 __Interests:__
-
+- 
       AI (Deep Learning, Neural Systems, LLM, ML, NLP);
       Software Engineering;
       Reverse Engineering;
