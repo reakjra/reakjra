@@ -24,10 +24,19 @@
 
 > Me and Myself.
 
-- ⌨️ Currently attending high school.
-- 📚 Developing addiction to software engineering.
-- 🏷 Sex: male.
+- ⌨️ Currently attending high school
+- 📚 Developing addiction to software engineering
+- 🏷 Sex: _male_
+- 🗣️ Languages: _italian, english_
+- 🐈 __Interests:__
 
+      AI (Deep Learning, Neural Systems, LLM, ML, NLP);
+      Software Engineering;
+      Reverse Engineering;
+      Cyber-security;
+          
+
+      
 </br>
 <h2>🌐 Socials</h2>
 
