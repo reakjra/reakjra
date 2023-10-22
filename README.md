@@ -13,7 +13,7 @@
 <h3 align="center"> 
 <i> 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=8000&pause=1000&color=fab8b9&center=true&vCenter=true&width=435&lines=reakjra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=8000&pause=1000&color=F0F0F0&center=true&vCenter=true&width=435&lines=reakjra)](https://git.io/typing-svg)
  
  </i> 
  </h3>
