@@ -26,7 +26,6 @@
 
 - ⌨️ Currently attending high school
 - 📚 Developing addiction to software engineering
-- 🏷 Sex: _male_
 - 🗣️ Languages: _italian, english_
 - 🐈 __Interests:__
 - 
