@@ -41,7 +41,7 @@
 
 > Self explanatory...
 
-- Telegram: [@wqpoy](https://t.me/wqpoy)
+- Telegram: [@vxsrea](https://t.me/vxsrea)
 - Discord (username): [mwttjq](https://discord.com/users/885982488281878658)
 - [Spotify](https://open.spotify.com/user/0bbesq3z1jnm8lb5uy8334p8h)
 
