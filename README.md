@@ -55,10 +55,10 @@ C++                            Rust
 
 
 OS:
-Kali Linux, Windows, Ubuntu;
+Windows
 
 Text Editor/IDE:
-VSC, VS, Intellij, Neovim, Eclipse;
+VSC, VS, Intellij, Eclipse;
 
 Hosting & Database:
 Heroku, DigitalOcean, Linode, AWS, MySQL, MongoDB;
