@@ -27,13 +27,7 @@
 - ⌨️ Currently attending high school
 - 📚 Developing addiction to software engineering
 - 🗣️ Languages: _italian, english_
-- 🐈 __Interests:__
-- 
-      AI (Deep Learning, Neural Systems, LLM, ML, NLP);
-      Software Engineering;
-      Reverse Engineering;
-      Cyber-security;
-          
+
 
       
 </br>
