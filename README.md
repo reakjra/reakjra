@@ -55,7 +55,7 @@ C++                            Rust
 
 
 OS:
-Windows
+EndeavourOS, Windows 11
 
 Text Editor/IDE:
 VSC, VS, Intellij, Eclipse;
