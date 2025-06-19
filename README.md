@@ -1,70 +1,64 @@
 <div align="center">
-
+  <img src="./assets/icon.png" alt="icon" width="60"/>
+  <h1> 
+   
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tajawal&weight=500&size=50&duration=8000&pause=1000&color=6f2929&center=true&vCenter=true&random=false&width=435&lines=nxjra)](https://git.io/typing-svg) 
+  
+  </h1>
+  <i>おやすみ、黒い花。 🌸</i>
 </div>
 
-<div style="position: absolute; top: 0; left: 0;">
-<img src="./assets/icon.png" alt="ic1" width="50"></img>
-</div>
+---
 
-</br>
-</br>
+> ### 🧠 About Me
 
+Hi! I'm a high school student with a growing passion for software engineering and creative coding.
 
-<h3 align="center"> 
-<i> 
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tajawal&weight=500&size=50&duration=8000&pause=1000&color=6f2929&center=true&vCenter=true&random=false&width=435&lines=nxjra)](https://git.io/typing-svg)
- 
- </i> 
- </h3>
-</br>
+- 🎓 Currently in high school
+- 💻 Learning to love backends and frontends equally (almost 😅)
+- 🌍 I speak **Italian** (native) and **English** (fluent-ish)
+- 🌸 I code for curiosity, expression and sometimes just for fun
 
+---
 
-<h2>🌸 About</h2>
+> ### 🌐 Where to Find Me
 
-> Me and Myself.
+- 💬 Telegram: [@vxsrea](https://t.me/vxsrea)
+- 🕹 Discord: [mwttjq](https://discord.com/users/885982488281878658)
+- 🎧 [Spotify](https://open.spotify.com/user/0bbesq3z1jnm8lb5uy8334p8h)
 
-- ⌨️ Currently attending high school
-- 📚 Developing addiction to software engineering
-- 🗣️ Languages: _italian, english_
+---
 
+> ## 🔧 Technologies & Tools
 
-      
-</br>
-<h2>🌐 Socials</h2>
+I love learning new things, here’s what I’m currently exploring:
 
-> Self explanatory...
+```yaml
+🔹 Learning:
+  - Java (Swing, JavaFX)
+  - Python
+  - C++
+  - Rust
 
-- Telegram: [@vxsrea](https://t.me/vxsrea)
-- Discord (username): [mwttjq](https://discord.com/users/885982488281878658)
-- [Spotify](https://open.spotify.com/user/0bbesq3z1jnm8lb5uy8334p8h)
+🔸 Intermediate:
+  - HTML/CSS (Tailwind, SCSS)
+  - TypeScript
 
-</br>
-<h2>🔨 Languages and Tools</h2>
+⭐ Confident with:
+  - JavaScript (Electron, React.js, Express)
 
-> Stuff I'm learning or I work with.
+🖥 OS:
+  - EndeavourOS, Windows 11
 
-</br>
+🧠 Editors & IDEs:
+  - VS Code, IntelliJ, Eclipse
 
-```ruby
-Learning:                      Medium-knowledge:                       High-knowledge:
-            
-Java {Swing, JavaFX},          HTML/CSS {Tailwind, scss},              Javascript {Electron, React.js, Express}
-Python,                        Typescript,
-C++                            Rust
+☁️ Hosting & DB:
+  - Heroku, DigitalOcean, AWS
+  - MySQL, MongoDB
+```
+<hr>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bf/f8/cd/bff8cd6ee61ad3be777e3d48c6fdfd7d.gif" alt="final banner" width="100px" height="auto"/>
+</p>
 
-
-OS:
-EndeavourOS, Windows 11
-
-Text Editor/IDE:
-VSC, VS, Intellij, Eclipse;
-
-Hosting & Database:
-Heroku, DigitalOcean, Linode, AWS, MySQL, MongoDB;
-
-```` 
-
-
- </i> </p>
- 
