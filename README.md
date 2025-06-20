@@ -2,7 +2,7 @@
   <img src="./assets/icon.png" alt="icon" width="60"/>
   <h1> 
    
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tajawal&weight=500&size=50&duration=8000&pause=1000&color=6f2929&center=true&vCenter=true&random=false&width=435&lines=nxjra)](https://git.io/typing-svg) 
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tajawal&weight=500&size=50&duration=8000&pause=1000&color=6f2929&center=true&vCenter=true&random=false&width=435&lines=reakjra)](https://git.io/typing-svg) 
   
   </h1>
   <i>おやすみ、黒い花。 🌸</i>
