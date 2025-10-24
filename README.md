@@ -15,7 +15,7 @@
 Hi! I'm a high school student with a growing passion for software engineering and creative coding.
 
 - 🎓 Currently in high school
-- 💻 Learning to love backends and frontends equally (almost 😅)
+- 💻 Learning to love backends and frontends equally (almost 😅) UPDATE: I fucking hate front-end.
 - 🌍 I speak **Italian** (native) and **English** (fluent-ish)
 - 🌸 I code for curiosity, expression and sometimes just for fun
 
