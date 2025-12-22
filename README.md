@@ -59,6 +59,6 @@ I love learning new things, here’s what I’m currently exploring:
   <img src="https://media.discordapp.net/attachments/1372442142986993754/1413148295341281290/RDT_20250903_1514204887374133622743643.gif?ex=694a93e8&is=69494268&hm=76a52e3241b65c8f59e109a27fed4a5164fc9f2848281e9913dd08705e945165&" alt="final banner" width="200px" height="auto"/>
   <br>
   <br>
-おやすみ、黒い花。 &emsp; ✦ &emsp; ✦ &emsp; ✦ &emsp; 舉杯邀明月 &emsp; ✦ &emsp; ✦ &emsp; ✦ &emsp; 모난 말을 숨기고서 별을 읽었지
+ ⌜おやすみ、黒い花。⌟ &emsp; ✦ &emsp; ✦ &emsp; ✦ &emsp;  ⌜舉杯邀明月⌟ &emsp; ✦ &emsp; ✦ &emsp; ✦ &emsp;  ⌜모난 말을 숨기고서 별을 읽었지⌟
 </p>
 
