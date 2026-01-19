@@ -56,7 +56,7 @@ I love learning new things, here’s what I’m currently exploring:
 ```
 <hr>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1320730536578256937/1443867055634780170/CorinLonelyMax.gif?ex=6960aefb&is=695f5d7b&hm=e5921945dcecdd02c5d25c7bdece1478b30102b4515132bace6df7a88eda2c5b&=&width=1351&height=1351" alt="final banner" width="200px" height="auto"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlraDZhMnJta3BpYzhtNWgzaTYxZWQ2dG5zNXl1cTM4c2VrbW9hcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H2p9Fxmuz5nlPQfiIe/giphy.gif" alt="final banner" width="200px" height="auto"/>
   <br>
   <br>
  ⌜おやすみ、黒い花。⌟ &emsp; ✦ &emsp; ✦ &emsp; ✦ &emsp;  ⌜舉杯邀明月⌟ &emsp; ✦ &emsp; ✦ &emsp; ✦ &emsp;  ⌜모난 말을 숨기고서 별을 읽었지⌟
