@@ -20,6 +20,7 @@ Hi! I'm a high school student with a growing passion for software engineering an
 
 > ### 🌐 Where to Find Me
 
+- 💌 reakjra@proton.me
 - 💬 Telegram: [@vxsrea](https://t.me/vxsrea)
 - 🕹 Discord: [mwttjq](https://discord.com/users/885982488281878658)
 - 🎧 [Spotify](https://open.spotify.com/user/0bbesq3z1jnm8lb5uy8334p8h)
